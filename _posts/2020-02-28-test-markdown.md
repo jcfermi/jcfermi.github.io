@@ -13,7 +13,7 @@ comments: true
 I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
 
 
-Here's a table about my experience coming into this class:
+Here's my experience coming into this class:
 
 | Sewing Experience | Programming Experience | Passion |
 | :------ |:--- | :--- |
