@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-# name, year, majors, sewing, programming, learning hops, boring fact.
+\name, year, majors, sewing, programming, learning hops, boring fact.
 
 I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
 
@@ -17,7 +17,7 @@ Here's a table about my experience coming into this class:
 
 | Sewing Experience | Programming Experience | Passion |
 | :------ |:--- | :--- |
-| None | None | Incalculable |
+| None | None | Literally so much |
 
 
 How about a yummy crepe?
@@ -28,32 +28,7 @@ It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
