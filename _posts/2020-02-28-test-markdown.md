@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-name, year, majors, sewing, programming, learning hops, boring fact.
+/ name, year, majors, sewing, programming, learning hops, boring fact.
 
 I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
 
