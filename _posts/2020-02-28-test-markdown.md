@@ -1,27 +1,23 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: My first github post
+subtitle: That's right, my very first one
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+name, year, majors, sewing, programming, learning hops, boring fact.
 
-**Here is some bold text**
+I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
 
-## Here is a secondary heading
 
-Here's a useless table:
+Here's a table about my experience coming into this class:
 
-| Number | Next number | Previous number |
+| Sewing Experience | Programming Experience | Passion |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| None | None | Incalculable |
 
 
 How about a yummy crepe?
