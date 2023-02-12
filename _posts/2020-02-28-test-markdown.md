@@ -2,7 +2,7 @@
 layout: post
 title: My first github post
 subtitle: That's right, my very first one
-tags: [test]
+tags: [jeana]
 comments: true
 ---
 
