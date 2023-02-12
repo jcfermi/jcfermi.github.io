@@ -8,7 +8,6 @@ tags: [test]
 comments: true
 ---
 
-\name, year, majors, sewing, programming, learning hops, boring fact.
 
 I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
 
@@ -19,15 +18,7 @@ Here's my experience coming into this class:
 | :------ |:--- | :--- |
 | None | None | Literally so much |
 
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
+A boring fact about me is that I'm from New Jersey.
 
 
 ## Boxes
