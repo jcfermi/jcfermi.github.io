@@ -2,9 +2,7 @@
 layout: post
 title: My first github post
 subtitle: That's right, my very first one
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [jeana]
 comments: true
 ---
 
