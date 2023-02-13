@@ -22,5 +22,5 @@ Here's my experience coming into this class:
 | None | None | Literally so much |
 
 
-I'm excited to learn to sew. A little less excited to learn the programming, but I welcome the challenge (and the student help hours I'll probably have to frequent. I hope I build the intellectual resilience for all the debugging we'll have to do, and that I'll ultimately be able to make wearable technology I find cool (I've already talked this up to my friends too much not to).
+I'm excited to learn to sew. A little less excited to learn the programming, but I welcome the challenge (and the student help hours I'll probably have to frequent). I hope I build the intellectual resilience for all the debugging we'll have to do, and that I'll ultimately be able to make wearable technology I find cool (I've already talked this up to my friends too much not to).
 
