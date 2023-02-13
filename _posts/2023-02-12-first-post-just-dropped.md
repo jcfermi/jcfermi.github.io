@@ -9,7 +9,10 @@ comments: true
 ---
 
 
-I'm Jeana, class of 2025. I think I'll major in Russian, although I make up a new answer for this every time I'm asked. 
+I'm Jeana, class of 2025. I'm from New Jersey, which I think counts as a boring fact.
+
+
+Today, I think I'll major in Russian. Tomorrow, who knows?
 
 
 Here's my experience coming into this class:
@@ -19,5 +22,5 @@ Here's my experience coming into this class:
 | None | None | Literally so much |
 
 
-A boring fact about me is that I'm from New Jersey.
+I'm excited to learn to sew. A little less excited to learn the programming, but I welcome the challenge (and the student help hours I'll probably have to frequent. I hope I build the intellectual resilience for all the debugging we'll have to do, and that I'll ultimately be able to make wearable technology I find cool (I've already talked this up to my friends too much not to).
 
