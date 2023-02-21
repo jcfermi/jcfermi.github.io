@@ -7,6 +7,7 @@ comments: true
 ---
 
 Here's my sampler:
-![Sampler](https://jcfermi.github.io/assets/img/sampler.jpg)
+![Sampler](https://jcfermi.github.io/assets/img/IMG_4913.jpg)
+![SamplerandMe](https://jcfermi.github.io/assets/img/sampler.jpg)
 
 Tip for my past self: Just save yourself the headache and use the needle threader
