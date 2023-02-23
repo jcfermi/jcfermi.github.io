@@ -6,6 +6,8 @@ tags: [jeana]
 comments: true
 ---
 
+Long story short, it went great
+
 ![SamplerandMe](https://jcfermi.github.io/assets/img/samp.jpg)
 ![Sampler](https://jcfermi.github.io/assets/img/IMG_4913.jpg)
 
