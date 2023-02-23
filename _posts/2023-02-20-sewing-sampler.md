@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sewing Sampler
-subtitle: trying this out
+subtitle: CSCI 103 first assignment
 tags: [jeana]
 comments: true
 ---
