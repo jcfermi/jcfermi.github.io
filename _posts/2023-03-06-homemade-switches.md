@@ -10,21 +10,21 @@ Our assignment was to make a circuit that lights up an LED when two homemade swi
 
 
 My paper prototype:
-![PrototypeWS1](https://jcfermi.github.io/assets/img/IMG-4650.png)
+![PrototypeWS1](https://jcfermi.github.io/assets/img/IMG-4650.jpg)
 
-![PrototypeWS2](https://jcfermi.github.io/assets/img/IMG-4649.png)
+![PrototypeWS2](https://jcfermi.github.io/assets/img/IMG-4649.jpg)
 
 
 Alligator clip prototyping:
-![Alligator](https://jcfermi.github.io/assets/img/IMG-5424.png)
+![Alligator](https://jcfermi.github.io/assets/img/IMG-5424.jpg)
 
 
 My homemade switches at work:
-![Lit](https://jcfermi.github.io/assets/img/IMG-4646.png)
+![Lit](https://jcfermi.github.io/assets/img/IMG-4646.jpg)
 
-![LessLit](https://jcfermi.github.io/assets/img/IMG-4647.png)
+![LessLit](https://jcfermi.github.io/assets/img/IMG-4647.jpg)
 
-![Back](https://jcfermi.github.io/assets/img/IMG-4648.png)
+![Back](https://jcfermi.github.io/assets/img/IMG-4648.jpg)
 
 
 Tip: Make sure that the threads in the back are not loose or touching.
